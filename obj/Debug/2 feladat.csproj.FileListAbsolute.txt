@@ -1,0 +1,7 @@
+C:\Users\zavarkoz\Git\2 feladat\bin\Debug\2 feladat.exe.config
+C:\Users\zavarkoz\Git\2 feladat\bin\Debug\2 feladat.exe
+C:\Users\zavarkoz\Git\2 feladat\bin\Debug\2 feladat.pdb
+C:\Users\zavarkoz\Git\2 feladat\obj\Debug\2 feladat.csproj.AssemblyReference.cache
+C:\Users\zavarkoz\Git\2 feladat\obj\Debug\2 feladat.csproj.CoreCompileInputs.cache
+C:\Users\zavarkoz\Git\2 feladat\obj\Debug\2 feladat.exe
+C:\Users\zavarkoz\Git\2 feladat\obj\Debug\2 feladat.pdb
